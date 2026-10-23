@@ -1,0 +1,2 @@
+scheduled_flights,matched,mismatched,missing,schedule_accuracy_pct,avg_publish_latency_min,sla_breach_pct
+10400,10219,163,18,98.26,23.0,14.94

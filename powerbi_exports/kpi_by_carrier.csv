@@ -1,0 +1,6 @@
+carrier,scheduled_flights,matched,schedule_accuracy_pct,avg_publish_latency_min,sla_breach_pct
+BY,2054,2026,98.64,22.6,14.63
+EV,2099,2066,98.43,23.9,14.84
+DW,2129,2090,98.17,22.6,15.11
+CZ,2106,2065,98.05,22.8,15.07
+AX,2012,1972,98.01,23.2,15.03

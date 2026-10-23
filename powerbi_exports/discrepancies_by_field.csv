@@ -1,0 +1,6 @@
+field,issue_type,discrepancy_count
+aircraft_type,FIELD_MISMATCH,44
+destination,FIELD_MISMATCH,44
+sched_arr,FIELD_MISMATCH,41
+sched_dep,FIELD_MISMATCH,34
+RECORD,MISSING_IN_OUTPUT,18
